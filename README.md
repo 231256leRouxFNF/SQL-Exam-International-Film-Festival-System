@@ -59,11 +59,11 @@ Stored procedures for common operations
 
 
 ## Key Features
-
-1. **Joins / Queries**
-   - List films screened in multiple venues
-   - Show tickets with audience names and film titles
-   - List jury scores per film
+  
+1. **Joins**
+ -   Films with screenings in multi venues
+ -   International collaborations so one film with 3 countries
+ -   Tickets per screening with audience and seat info
 
 2. **Triggers**
    - Prevent double-booking of seats
