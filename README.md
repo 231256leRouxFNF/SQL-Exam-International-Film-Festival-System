@@ -28,12 +28,6 @@ Triggers for enforcing business rules
 
 Stored procedures for common operations
 
-
-# add a img of the repo structure here
-
-
-
-
 # Tables
 
 | Table Name       | Description |
